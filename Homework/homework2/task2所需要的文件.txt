@@ -1,0 +1,2 @@
+https://datasetss.blob.core.windows.net/public/proj1.captioning/dependent.file.task2/vgg16_exported.h5
+https://datasetss.blob.core.windows.net/public/proj1.captioning/dependent.file.task2/vgg16_exported.json
